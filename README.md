@@ -26,4 +26,8 @@ Get feedback now!
 * [r/TechSupport](https://www.reddit.com/r/techsupport/): A community of 112K members to support and criticize all technical kinds of stuff. 
 * [r/HomeNetworking](https://www.reddit.com/r/HomeNetworking/): A community of 28K members to review your home networking setting. 
 
+## Ideas
+
+* [IdeasWatch](http://www.ideaswatch.com/): Over 6000+ entrepreneurs from 160 contries and 2000+ ideas
+
 
