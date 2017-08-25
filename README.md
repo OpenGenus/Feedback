@@ -7,6 +7,11 @@ Get feedback now!
 
 * [Code](#code)
 * [Product/ Start-up](#product)
+* [Hardware](#hardware)
+* [Ideas](#ideas)
+* [Photographs](#photographs)
+* [Writings](#writings)
+* [Paintings](#paintings)
 
 ## Code
 
@@ -42,5 +47,13 @@ Get feedback now!
 * [Critique Circle](https://www.critiquecircle.com/): A community of writers to share feedback on each others' work.
 * [Writers Cafe](http://www.writerscafe.org/): online writing community where writers can post their work, get reviews, befriend other writers, and much more
 * [WeBooks](http://www.webook.com/): A community of writers to get work criticized and published.
+
+## Paintings
+
+* [DevianArt](http://www.deviantart.com/): An online community to share and improve your art.
+* [r/ArtCrit](https://www.reddit.com/r/ArtCrit/): A community of over 11,500 members to share feedback on art.
+* [Drawing Factory](http://www.drawing-factory.com/drawing-feedback/): Get professional feedback.
+* [DrawSpace](https://www.drawspace.com/): To learn through tutorials and get feedback on your work.
+
 
 
