@@ -37,4 +37,10 @@ Get feedback now!
 * [SE Photography chat](https://chat.stackexchange.com/rooms/14/photography-chat): Get feedback in real time
 * [1X](https://1x.com/critique/): Submit your own images and provide critique to others.
 
+## Writings
+
+* [Critique Circle](https://www.critiquecircle.com/): A community of writers to share feedback on each others' work.
+* [Writers Cafe](http://www.writerscafe.org/): online writing community where writers can post their work, get reviews, befriend other writers, and much more
+* [WeBooks](http://www.webook.com/): A community of writers to get work criticized and published.
+
 
