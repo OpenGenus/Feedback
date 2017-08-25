@@ -2,6 +2,11 @@
 Places to get valuable feedback for your product, code, writing and everything
 
 Get feedback now! 
+<h1 align="center">
+	<br>
+	<img width="200" src="https://github.com/AdiChat/Feedback/blob/master/assets/logo.jpg" alt="be happy">
+	<br>
+</h1>
 
 # Table of contents
 
