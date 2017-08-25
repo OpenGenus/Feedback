@@ -30,4 +30,11 @@ Get feedback now!
 
 * [IdeasWatch](http://www.ideaswatch.com/): Over 6000+ entrepreneurs from 160 contries and 2000+ ideas
 
+## Photographs
+
+* [r/PhotoCritique](https://www.reddit.com/r/photocritique/): A community of over 52,000 people to criticize your photographs
+* [Professional Photo Critique](http://www.professionalphotocritique.org/): To get feedback from an experienced critic
+* [SE Photography chat](https://chat.stackexchange.com/rooms/14/photography-chat): Get feedback in real time
+* [1X](https://1x.com/critique/): Submit your own images and provide critique to others.
+
 
