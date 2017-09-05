@@ -62,5 +62,15 @@ Get feedback now!
 * [Drawing Factory](http://www.drawing-factory.com/drawing-feedback/): Get professional feedback.
 * [DrawSpace](https://www.drawspace.com/): To learn through tutorials and get feedback on your work.
 
+## How to share my code?
 
+You can use the following services:
+
+* [GitHub](https://github.com): To share entire project or bunch of code
+* [GitLab](https://about.gitlab.com/): To share entire project or bunch of code
+* [Gist-GitHub](https://gist.github.com/): To share small snippets
+* [CodePen](https://codepen.io/): For live demo of websites using HTML, CSS and JS.
+* [JSFiddle](https://jsfiddle.net/): For live demo
+* [JSBin](https://jsbin.com/): For live demo
+* [Cloud9](https://c9.io/): For live demo of entire project using various technologies
 
