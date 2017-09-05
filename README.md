@@ -23,6 +23,8 @@ Get feedback now!
 * [SE CodeReview](https://codereview.stackexchange.com/): Get feedback in real time
 * [HackHands](https://hackhands.com/): Get feedback for a price in real time
 * [r/learnjava](https://www.reddit.com/r/learnjava/): A community of 12K members to learn and review java code
+* [r/codereview](https://www.reddit.com/r/codereview/): A rising community to get constructive feedback
+* [r/reviewmycode](https://www.reddit.com/r/reviewmycode/): A rising community to get feedback on your code
 
 ## Product
 
