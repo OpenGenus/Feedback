@@ -75,3 +75,8 @@ You can use the following services:
 * [JSBin](https://jsbin.com/): For live demo
 * [Cloud9](https://c9.io/): For live demo of entire project using various technologies
 
+---
+
+<p align="center">
+	<a href="https://github.com/AdiChat/Feedback/blob/master/code_of_conduct.md">Code of conduct</a> | <a href="https://github.com/AdiChat/Feedback/blob/master/contribute.md">Contribute</a>
+</p>
