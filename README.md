@@ -17,6 +17,7 @@ Get feedback now!
 * [Photographs](#photographs)
 * [Writings](#writings)
 * [Paintings](#paintings)
+* [How to share my code?](#how-to-share-my-code)
 
 ## Code
 
